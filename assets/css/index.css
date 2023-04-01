@@ -109,4 +109,11 @@ h4 {
 }
 
 
+.carousel-caption {
+    left: 85%;
+}
 
+.text-wrap {
+    font-size: 11px;
+    width: 10rem;
+}
